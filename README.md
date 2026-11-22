@@ -1,9 +1,11 @@
-@"
 # Space Invaders
 
-Shoot aliens and get protected by obstacles for a while.
-Watch out for they mystery ship.
+A Space Invaders clone made with C++ and Raylib.
+
+Shoot the aliens, hide behind obstacles for cover, and watch out for the mystery ship.
+
 ## Build
-How to run it: 
-Open .slnx file
-"@ | Out-File -Encoding utf8 README.md
+
+1. Install Raylib.
+2. Open `spaceinvaders.slnx` in Visual Studio.
+3. Press Run.
